@@ -1,0 +1,17 @@
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ConsoleTablesApp.deps.json
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ConsoleTablesApp.runtimeconfig.json
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ConsoleTablesApp.runtimeconfig.dev.json
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ConsoleTablesApp.dll
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ref/ConsoleTablesApp.dll
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ConsoleTablesApp.pdb
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/bin/Debug/net5.0/ConsoleTables.dll
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.csprojAssemblyReference.cache
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.AssemblyInfoInputs.cache
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.AssemblyInfo.cs
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.csproj.CoreCompileInputs.cache
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.csproj.CopyComplete
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.dll
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ref/ConsoleTablesApp.dll
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.pdb
+/Users/elahnharris/Projects/ConsoleTable/ConsoleTablesApp/obj/Debug/net5.0/ConsoleTablesApp.genruntimeconfig.cache
